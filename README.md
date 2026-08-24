@@ -28,7 +28,7 @@ My main interest is understanding how attackers think, how defenses can be bypas
 
 I'm currently following the **Junior Penetration Tester** path on TryHackMe and building my foundations toward a long-term goal in **red teaming**.
 
-Outside cybersecurity, I study **Electrical & Electronics Engineering**.
+Outside cybersecurity, I study **Astrophysics & Electrical Engineering**.
 
 ```text
 ┌─────────────────────────────────────────────────────┐
