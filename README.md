@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./character_ascii_color.svg" width="520" alt="ASCII art">
+<img src="./github_ascii_character(1).svg" width="520" alt="ASCII art">
 
 <br>
 
