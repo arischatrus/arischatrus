@@ -4,7 +4,7 @@
 
 ### `self-taught cybersecurity learner · junior pentester · future red teamer`
 
-*I like understanding how systems work, finding where they break, and learning how to break them — ethically.*
+*I like understanding how systems work, finding where they break, and learning how to break them — ethically (maybe)*
 
 <br>
 
