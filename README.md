@@ -136,44 +136,6 @@ Leadership
 
 Eventually, I'd like to become a highly specialized **red teamer** and eventually lead an offensive-security team.
 
----
-
-## `projects`
-
-Currently building this section from scratch.
-
-I don't want to fill my GitHub with artificial projects just to make the profile look impressive. As I build things that are actually useful, they'll appear here.
-
-```text
-~/projects
-
-├── coming-soon/
-├── security-labs/
-├── writeups/
-└── tools/
-```
-
----
-
-## `learning_by_doing`
-
-Most of my cybersecurity learning comes from hands-on environments rather than just reading theory.
-
-```text
-TryHackMe
-   │
-   ├── Pre Security             ✓
-   ├── Cyber Security 101      ✓
-   ├── Junior Pentester        →
-   │
-   └── CTFs & practical labs   →
-```
-
-I'm especially interested in the point where theory becomes practical:
-
-**enumeration → attack surface → vulnerability → exploitation → privilege escalation → impact**
-
----
 
 ## `contact`
 
