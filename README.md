@@ -30,16 +30,7 @@ I'm currently following the **Junior Penetration Tester** path on TryHackMe and 
 
 Outside cybersecurity, I study **Astrophysics & Electrical&Electronics Engineering**.
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  focus        →  penetration testing                │
-│  interests    →  vulnerability research            │
-│  direction    →  offensive security                 │
-│  long-term    →  red teaming                        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+---
 
 ## `learning`
 
@@ -56,10 +47,6 @@ I'm currently building deeper practical knowledge in:
 * Cryptography fundamentals
 * Malware analysis fundamentals
 * Defensive concepts and SIEM fundamentals
-
-My approach is simple:
-
-> **Understand → Enumerate → Exploit → Learn → Repeat**
 
 ---
 
@@ -94,13 +81,10 @@ My approach is simple:
 ```text
 [✓] TryHackMe Pre Security
 [✓] TryHackMe Cyber Security 101
-[✓] 130+ TryHackMe rooms completed
+[✓] 160+ TryHackMe rooms completed
 [→] TryHackMe Junior Penetration Tester
-[→] Building practical offensive-security skills
 [→] Learning through labs, CTFs and experimentation
-[ ] Build meaningful security projects
-[ ] Start publishing technical write-ups
-[ ] Develop deeper Active Directory skills
+[ ] Build meaningful projects
 [ ] Move toward advanced red-team tradecraft
 ```
 
@@ -108,17 +92,16 @@ My approach is simple:
 
 ## `what's_next`
 
-I'm not trying to collect as many tools or badges as possible.
+I'm not trying to collect as many tools or badges as possible
 
-The goal is to become **really good at understanding systems**.
+The goal is to become really good at understanding systems
 
 ### Short term
 
 * Finish the Junior Penetration Tester path
 * Improve web and network pentesting skills
 * Become more comfortable with scripting
-* Build my first useful security projects
-* Start documenting what I learn
+* Building useful projects
 
 ### Long term
 
@@ -134,7 +117,7 @@ Specialization
 Leadership
 ```
 
-Eventually, I'd like to become a highly specialized **red teamer** and eventually lead an offensive-security team.
+Eventually, I'd like to become a highly specialized red teamer and eventually lead an offensive-security team.
 
 
 ## `contact`
