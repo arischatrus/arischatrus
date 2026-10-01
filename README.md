@@ -137,8 +137,8 @@ If you'd like to talk about cybersecurity, CTFs, pentesting, Linux, or anything 
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   "The goal isn't to know every tool.       │
-│    It's to understand what the tools reveal."│
+│    Amateurs hack systems;                    │
+     professionals hack people.                │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
